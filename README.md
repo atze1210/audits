@@ -855,6 +855,28 @@ See [full report](Sigma%20Prime%20-%20Lido%20BLS%20Library%20Security%20Assessme
 
 See [full report](MixBytes%20CSM%20Performance%20Oracle%20Security%20Audit%20Report%2001-26.pdf) for more details.
 
+### 01-2026 MixBytes Lido DeFi Wrapper Security Audit Report
+
+- Total Issues: 24 (14 Fixed, 10 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (1 Fixed, 1 Acknowledged)
+- Low Issues: 22 (13 Fixed, 9 Acknowledged) 
+
+See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20Security%20Audit%20Report%2001-2026.pdf) for more details.
+
+### 01-2026 Ackee Blockchain Vault Wrapper Report
+
+- Total Issues: 14 (13 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 2 (2 Fixed)
+- Warnings: 3 (3 Fixed)
+- Info Issues: 9 (8 Fixed, 1 Acknowledged)
+
+See [full report](Ackee%20Blockchain%20Vault%20Wrapper%20Report%2001-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
