@@ -861,7 +861,7 @@ See [full report](MixBytes%20CSM%20Performance%20Oracle%20Security%20Audit%20Rep
 - Critical Issues: 0
 - High Issues: 0
 - Medium Issues: 2 (1 Fixed, 1 Acknowledged)
-- Low Issues: 22 (13 Fixed, 9 Acknowledged) 
+- Low Issues: 22 (13 Fixed, 9 Acknowledged)
 
 See [full report](MixBytes%20Lido%20DeFi%20Wrapper%20Security%20Audit%20Report%2001-2026.pdf) for more details.
 
