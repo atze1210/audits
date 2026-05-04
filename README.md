@@ -953,6 +953,17 @@ The formal verification covered 41 properties (10 invariants, 11 parametric rule
 
 See [formal verification report](Cyfrin%20CircuitBreaker%20Formal%20Verification%20Report%2004-2026.pdf) for more details.
 
+### 04-2026 MixBytes Lido CircuitBreaker Security Audit
+
+An audit of the CircuitBreaker emergency pause manager.
+
+- Total Issues: 1 (1 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Fixed)
+
+See [full report](MixBytes%20CircuitBreaker%20Audit%20Report%2004-2026.pdf) for more details.
 
 ## Lido Multichain audit reports
 
@@ -1133,4 +1144,3 @@ Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [Augu
 - Total Issues: 0
 
 See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
-
