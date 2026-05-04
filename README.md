@@ -965,7 +965,6 @@ An audit of the CircuitBreaker emergency pause manager.
 
 See [full report](MixBytes%20CircuitBreaker%20Audit%20Report%2004-2026.pdf) for more details.
 
-
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
@@ -1145,4 +1144,3 @@ Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [Augu
 - Total Issues: 0
 
 See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
-
