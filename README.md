@@ -935,6 +935,36 @@ No issues were found.
 
 See [full report](MixBytes%20Lido%20Easy%20Track%20stVaults%20Security%20Audit%20Report%2003-26.pdf) for more details.
 
+### 04-2026 Cyfrin Lido CircuitBreaker Security Audit and Formal Verification
+
+An audit and Certora Prover formal verification of the CircuitBreaker emergency pause manager.
+
+- Total Issues: 5 (3 Resolved, 2 Acknowledged)
+- Critical Risk Issues: 0
+- High Risk Issues: 0
+- Medium Risk Issues: 0
+- Low Risk Issues: 0
+- Informational Issues: 2 (1 Resolved, 1 Acknowledged)
+- Gas Optimizations: 3 (2 Resolved, 1 Acknowledged)
+
+See [audit report](Cyfrin%20CircuitBreaker%20Audit%20Report%2004-2026.pdf).
+
+The formal verification covered 41 properties (10 invariants, 11 parametric rules, 4 access control rules, 6 revert condition rules, 7 integrity rules, 3 reachability rules). 38 of 41 properties were verified; 3 known limitations were verified by manual analysis and across all other code paths.
+
+See [formal verification report](Cyfrin%20CircuitBreaker%20Formal%20Verification%20Report%2004-2026.pdf) for more details.
+
+### 04-2026 MixBytes Lido CircuitBreaker Security Audit
+
+An audit of the CircuitBreaker emergency pause manager.
+
+- Total Issues: 1 (1 Fixed)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Fixed)
+
+See [full report](MixBytes%20CircuitBreaker%20Audit%20Report%2004-2026.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
