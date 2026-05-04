@@ -937,7 +937,7 @@ See [full report](MixBytes%20Lido%20Easy%20Track%20stVaults%20Security%20Audit%2
 
 ### 04-2026 Cyfrin Lido CircuitBreaker Security Audit and Formal Verification
 
-An audit and Certora formal verification of the CircuitBreaker emergency pause manager.
+An audit and Certora Prover formal verification of the CircuitBreaker emergency pause manager.
 
 - Total Issues: 5 (3 Resolved, 2 Acknowledged)
 - Critical Risk Issues: 0
